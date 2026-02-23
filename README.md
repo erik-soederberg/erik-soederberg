@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hej!
 
-<!--
-**erik-soederberg/erik-soederberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systemutvecklare med fokus på .NET  
+📍 Sverige  
+🚀 Siktar på LIA / Juniorutvecklare 2026–2027
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Om mig
+
+Jag brinner för att bygga stabila backend-lösningar,
+tydliga API:er och system som är enkla att vidareutveckla.
+
+Jag gillar:
+- Ren kod
+- Tydlig arkitektur
+- Praktisk problemlösning
+- Att lära mig nya tekniker
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+- C# / .NET
+- ASP.NET Core
+- Entity Framework
+
+### Frontend
+- HTML / CSS
+- JavaScript
+
+### Databaser
+- PostgreSQL
+- MongoDB
+
+### Verktyg
+- Git / GitHub
+- Docker
+- Postman
+- JetBrains Rider
+
+---
+
+## 🚀 Projekt
+
+🔹 **Auth Server (.NET + JWT)**
+> Autentisering med RSA & tokens
+
+🔹 **Produkt-API**
+> REST API med PostgreSQL & EF Core
+
+🔹 **Webshop (pågående)**
+> Backend + betalning + lager
+
+➡️ Se fler projekt i mina repositories
+
+---
+
+## 🎯 Just nu
+
+- Studerar Systemutvecklare .NET
+- Fördjupar mig i:
+  - API-design
+  - Clean Architecture
+  - Säkerhet
+- Bygger portfolio-projekt
+
+---
+
+## 📫 Kontakt
+
+📧 Mail: dinmail@mail.com  
+💼 LinkedIn: linkedin.com/in/dittnamn  
+
+---
+
+✨ Tack för att du besöker min profil!
